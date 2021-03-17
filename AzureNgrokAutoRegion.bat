@@ -3,8 +3,8 @@ echo Author: https://t.me/mmahim
 title Azure-Auto-Region
 
 echo Download all files...
-curl --silent -O https://raw.githubusercontent.com/TheDarkMythos/Ngrok-Exe/master/ngrok.exe 
-curl --silent -O https://raw.githubusercontent.com/docefio/Windows2019RDP-Azure/main/files/NGROK-CHECK.bat
+curl --silent -O https://raw.githubusercontent.com/Kazumant/Ngrok-Exe/master/ngrok.exe 
+curl --silent -O https://raw.githubusercontent.com/Kazumant/Windows2019RDP-Azure/main/files/NGROK-CHECK.bat
 
 
 echo Copy NGROK to System32...
